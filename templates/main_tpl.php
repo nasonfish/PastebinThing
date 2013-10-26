@@ -10,7 +10,7 @@
 <body>
 <div class="content">
     <div class="head">
-        <h1 class="title" onclick="window.location.href='/';">Paste it!</h1>
+        <h1 class="title"><a href="/" class="normal">Paste it!</a></h1>
         <span class="subtitle">Need a place to stick your code? Paste it in our simple pastebin service here for quick sharing!</span>
         <?php $this->head(); ?>
     </div>
